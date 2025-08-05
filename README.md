@@ -1,4 +1,3 @@
-## Hi there 👋 Kushan Samuditha Wijethgunga
 
 # 👋 Hi there, I'm Kushan Samuditha!
 
@@ -25,12 +24,6 @@
 - 💻 Wireshark Traffic Analysis Labs
 
 ---
-
-## 📫 Connect With Me
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)
-- LinkedIn: [linkedin.com/in/YourLinkedIn](https://linkedin.com/in/YourLinkedIn)
-- TryHackMe: [tryhackme.com/p/YourTHM](https://tryhackme.com/p/YourTHM)
-- Email: your.email@example.com
 
 ---
 
