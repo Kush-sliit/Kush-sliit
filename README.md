@@ -11,6 +11,8 @@
 </p>
 
 <h3 align="center"><i>“Securing the digital world, one vulnerability at a time.”</i></h3>
+![My Cyber Journey](https://yourdomain.com/my-cool-transition.gif)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kushan-sliit&label=Visitor%20Count&color=0e75b6&style=flat" alt="visitor counter"/>
