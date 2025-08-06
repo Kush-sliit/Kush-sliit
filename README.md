@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Kushan Samuditha</h1>
 <h3 align="center">Cybersecurity Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>
-🎓 I'm an undergraduate student specializing in **Cybersecurity** at SLIIT.  
+🎓 I'm an undergraduate student specializing in Cybersecurity at SLIIT.  
 🔐 Passionate about ethical hacking, web security, and building secure systems.  
-🛠️ Currently learning and building projects using tools like **Burp Suite**, **Metasploit**, **Wireshark**, and working on **TryHackMe**, **Hack The Box**, and Bug Bounty programs.  
+🛠️ Currently learning and building projects using tools like Burp Suite, Metasploit, Wireshark, and working on TryHackMe, Hack The Box, and Bug Bounty programs.  
 
 
 <p align="center">
